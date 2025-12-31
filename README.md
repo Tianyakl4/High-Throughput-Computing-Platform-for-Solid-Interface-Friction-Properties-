@@ -1,0 +1,2 @@
+# High-Throughput-Computing-Platform-for-Solid-Interface-Friction-Properties-
+Two high-throughput computing platforms for first-principles calculations developed by the Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences. The LICP-FPHTC-Platform aims to calculate potential energy surfaces and friction forces, while the LICP-FPHTC-DiffCHG-Platform can compute interfacial differential charge density.
